@@ -1,0 +1,4 @@
+*.bak
+*.drawio.bkp
+.DS_Store
+Thumbs.db
